@@ -1,1 +1,1 @@
-Console.WriteLine(Лабораторная работа №5);
+Console.WriteLine(Hello, TRPO)
